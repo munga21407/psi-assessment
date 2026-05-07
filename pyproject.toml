@@ -1,0 +1,13 @@
+[project]
+name = "psi-assessment"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "faker>=40.15.0",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "pyspark>=3.5.0",
+    "pytest>=9.0.3",
+]
